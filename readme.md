@@ -1,4 +1,4 @@
-# Feather.js Demo
+# Feather.js Demo App
 
 This is a demo project showcasing the usage of Feather.js, a lightweight web framework for building real-time applications.
 
@@ -49,6 +49,7 @@ should return the same data to the user.
 
 ### Demo
 
+https://github.com/AssaultKoder95/feather-js-demo/assets/6575313/70f5ac92-6785-418b-9432-f1f705995414
 
 ### Specifications
 
